@@ -65,7 +65,7 @@ body {
 
 .text-inside {
     position: absolute;
-    top: 30%;
+    top: 20%;
     left: 24%;
     transform: translate(-50%, -50%);
     color: #612D2D;

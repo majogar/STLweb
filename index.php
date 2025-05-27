@@ -23,7 +23,7 @@
 
     <div class="imagen-text">
       <img src="pictures/contenedor2/1.jpg" alt="Imagen de club" />
-      <div class="text-inside">Fueling the Future,<br> One Launch at a </br> <br>Time.</br>
+      <div class="text-inside">Fueling the Future,<br> One Launch at a </br>Time.</br>
     </div>
     
     </div>
