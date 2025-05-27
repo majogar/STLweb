@@ -1,0 +1,37 @@
+How to Export (Backup) Your Database to a .sql File
+Open your browser and go to:
+http://localhost/phpmyadmin
+
+On the left panel, select the database you want to export (e.g., stl_database).
+
+Click the Export tab at the top.
+
+Choose the Quick export method.
+
+Make sure the format is set to SQL.
+
+Click the Go button.
+
+A .sql file containing your database structure and data will download.
+
+How to Import a .sql File into phpMyAdmin
+On the other computer (or on the same machine if you want to restore or copy), open:
+http://localhost/phpmyadmin
+
+If you want to import into a new database, first create a new empty database:
+
+Click New on the left panel.
+
+Enter the database name (e.g., stl_database) and create it.
+
+Select the (empty or existing) database from the left panel.
+
+Click the Import tab at the top.
+
+Under File to import, click Choose file and select your .sql file.
+
+Make sure the format is set to SQL.
+
+Click the Go button.
+
+Wait for the import to finish. You should see a success message.
